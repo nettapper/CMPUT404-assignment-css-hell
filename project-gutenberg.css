@@ -7,7 +7,16 @@ body {
   background: -moz-linear-gradient(right, #d3c7a2, #baa86e, #d3c7a2); /* For Firefox 3.6 to 15 */
   background: linear-gradient(right, #d3c7a2, #baa86e, #d3c7a2); /* Standard syntax */
 
+  /* light-text-color: #8a6a32 */
+  /* dark-text-color: #523f1e */
   font-family: fantasy;  /* I want this as the default font-family */
+  color: #523f1e;
+}
+
+h1:first-letter, h2:first-letter, h3:first-letter, h4:first-letter, h5:first-letter, h6::first-letter {
+  font-size: 3em;
+  color: #8a6a32;
+  font-family: cursive;
 }
 
 h1, h2, h3, h4, h5, h6 {

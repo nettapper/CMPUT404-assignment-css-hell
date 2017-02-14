@@ -39,3 +39,4 @@ Resources Used
 ==============
 - [Linear Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient), accessed Tue Feb 14, 2017
 - [Font Family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family), accessed Tue Feb 14, 2017
+- [Pseudo Elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements), accessed Tue Feb 14, 2017
