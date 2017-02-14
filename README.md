@@ -22,3 +22,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Project Gutenberg Files
+=======================
+The following .html files have been taken from Project Gutenberg.
+- [Beowulf_An_Anglo-Saxon_Epic_Poem.html](http://www.gutenberg.org/files/16328/16328-h/16328-h.htm), accessed Tue Feb 14, 2017
+- [Peter_Pan,_by_J._M._Barrie.html](http://www.gutenberg.org/files/844/844-h/844-h.htm), accessed Tue Feb 14, 2017
+- [The_Importance_of_Being_Earnest.html](http://www.gutenberg.org/files/16/16-h/16-h.htm), accessed Tue Feb 14, 2017
