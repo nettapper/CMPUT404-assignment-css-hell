@@ -34,3 +34,7 @@ The following .html files have been taken from Project Gutenberg.
 - [The_Importance_of_Being_Earnest.html](http://www.gutenberg.org/files/16/16-h/16-h.htm), accessed Tue Feb 14, 2017
   - Deleted all occourances of the style tag ONLY in the head tag
   - Added `<link href="project-gutenberg.css" rel="stylesheet" type="text/css">` to the head tag
+
+Resources Used
+==============
+- [Linear Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient), accessed Tue Feb 14, 2017
