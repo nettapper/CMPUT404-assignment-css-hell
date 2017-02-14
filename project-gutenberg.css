@@ -26,3 +26,16 @@ h1, h2, h3, h4, h5, h6 {
 p {
   font-family: cursive;
 }
+
+a {
+  color: grey;
+}
+
+pre {
+  text-align: center;
+}
+
+img {
+  border: 0.6em groove #baa86e;
+  height: 25em;
+}
