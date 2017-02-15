@@ -21,12 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-5427602601_9ae9ecf492_z.jpg is licensed under [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/), taken by [Rebecca Siegal](https://www.flickr.com/photos/grongar/), this photograph has not been altered in any way
+gutenberg/5427602601_9ae9ecf492_z.jpg is licensed under [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/), taken by [Rebecca Siegal](https://www.flickr.com/photos/grongar/), this photograph has not been altered in any way
 
 
 Project Gutenberg Files
 =======================
-The following .html files have been taken from Project Gutenberg.
+The following html files in the 'gutenberg' directory have been taken from Project Gutenberg.
 - 1.html is originally [Beowulf_An_Anglo-Saxon_Epic_Poem.html](http://www.gutenberg.org/files/16328/16328-h/16328-h.htm), accessed Tue Feb 14, 2017
   - Deleted all occourances of the style tag ONLY in the head tag
   - Added `<link href="project-gutenberg.css" rel="stylesheet" type="text/css">` to the head tag
