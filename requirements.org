@@ -79,8 +79,8 @@
     - [ ] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
     - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
-    - [ ] homepage/good.html should host your good page
-    - [ ] homepage/ugly.html should host your ugly page
+    - [x] homepage/good.html should host your good page
+    - [x] homepage/ugly.html should host your ugly page
     - [x] gutenberg/1.html should host your first gutenberg book
     - [x] gutenberg/2.html should host your second gutenberg book
     - [x] gutenberg/3.html should host your third gutenberg book
