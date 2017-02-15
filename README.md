@@ -27,14 +27,14 @@ Code is licensed under the Apache 2.0 license.
 Project Gutenberg Files
 =======================
 The following .html files have been taken from Project Gutenberg.
-- [Beowulf_An_Anglo-Saxon_Epic_Poem.html](http://www.gutenberg.org/files/16328/16328-h/16328-h.htm), accessed Tue Feb 14, 2017
+- 1.html is originally [Beowulf_An_Anglo-Saxon_Epic_Poem.html](http://www.gutenberg.org/files/16328/16328-h/16328-h.htm), accessed Tue Feb 14, 2017
   - Deleted all occourances of the style tag ONLY in the head tag
   - Added `<link href="project-gutenberg.css" rel="stylesheet" type="text/css">` to the head tag
-- [Peter_Pan,_by_J._M._Barrie.html](http://www.gutenberg.org/files/844/844-h/844-h.htm), accessed Tue Feb 14, 2017
+- 2.html is originally [Peter_Pan,_by_J._M._Barrie.html](http://www.gutenberg.org/files/844/844-h/844-h.htm), accessed Tue Feb 14, 2017
   - Deleted all occourances of the style tag ONLY in the head tag
   - Added `<link href="project-gutenberg.css" rel="stylesheet" type="text/css">` to the head tag
   - Added a picture of a [Great grandma's frying pan](https://www.flickr.com/photos/grongar/5427602601/in/photolist-9gBTac-oC9hPd-S5F3wr-iwq2v-eVuTXJ-S35L11-S35FyL-qqRQ5G-6cfgMr-S5F2Bk-q8xmgd-S5F2kZ-qRBeJp-4mxcWe-pchPdq-bCKhFW-ptN6Ag-8V9EpG-pPHpQ7-pchdd5-DZGF-66Paeg-prJgNm-7dnGhf-ptvafF-pagicS-ptKj7G-4VQJUM-F5h6Q-prLcE7-ptN1Tv-pchjfH-ptu48x-cQ5Zb3-35saAP-paj1mv-pPHpGm-ptuB9B-pchXoJ-8asYDq-pPFHcx-6nJrdz-cEV9m5-pcgxrh-5Pzhij-prJoTo-cr4a3A-6a8F6H-6nkvBc-q7bKgd) taken by [Rebecca Siegal](https://www.flickr.com/photos/grongar/) because none of my Project Gutenberg files had a picture to apply css to
-- [The_Importance_of_Being_Earnest.html](http://www.gutenberg.org/files/16/16-h/16-h.htm), accessed Tue Feb 14, 2017
+- 3.html is originally [The_Importance_of_Being_Earnest.html](http://www.gutenberg.org/files/16/16-h/16-h.htm), accessed Tue Feb 14, 2017
   - Deleted all occourances of the style tag ONLY in the head tag
   - Added `<link href="project-gutenberg.css" rel="stylesheet" type="text/css">` to the head tag
 
