@@ -47,3 +47,4 @@ Resources Used
 - [Code Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code), accessed Tue Feb 16, 2017
 - [A guide to flex boxes](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), accessed Tue Feb 16, 2017
 - [CSS Centering Tricks](https://www.w3.org/Style/Examples/007/center.en.html), accessed Tue Feb 16, 2017
+- [Using CSS to add text](http://stackoverflow.com/questions/2741312/using-css-to-insert-text), accessed Tue Feb 16, 2017

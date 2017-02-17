@@ -32,6 +32,14 @@ img.profile_picture {
   margin-bottom: 1em;
 }
 
+nav {
+  border-style: solid;
+  border-bottom-width: 0.3em;
+  border-top-width: 0em;
+  border-right-width: 0em;
+  border-left-width: 0em;
+  border-color: darkcyan;
+}
 nav ul {
   margin-top: 0;
   margin-bottom: 0;
@@ -67,16 +75,21 @@ div.container {
 div.container h1 {
   margin-top: 0;
   margin-bottom: 0;
+  font-family: monospace;
+}
+
+div.container div p {
+  margin-top: 0em;
+  margin-bottom: 1em;
 }
 
 div.content {
-  margin-right: 1em;
+  padding: 1em;
 }
 
 div.sidebar {
   margin-top: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding: 1em;
   background: lightgrey;
 }
 
@@ -85,4 +98,26 @@ div.code_box {
   border-style: solid;
   border-color: crimson;
   border-width: 0.05em;
+}
+
+div#experience ul {
+  list-style-type: none;
+}
+
+
+/* http://stackoverflow.com/questions/2741312/using-css-to-insert-text */
+/* Martin Hansen (http://stackoverflow.com/users/2071762/martin-hansen) */
+/* Taken on Feb 16, 2017 */
+blockquote:before {
+  content: "\"";
+}
+blockquote:after {
+  content: "\"";
+}
+/* end of code snippet */
+
+footer {
+  background: darkcyan;
+  margin-top: 0;
+  margin-bottom: 0;
 }
