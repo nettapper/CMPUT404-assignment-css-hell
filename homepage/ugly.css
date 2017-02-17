@@ -1,19 +1,32 @@
 body {
-  background: dimgrey;
+  background: white;
   margin: 2em;
 }
 
 a {
-  color: grey;
+  color: blue;
+}
+
+li:hover {
+  color: white;
 }
 
 div.mast {
-  background: darkcyan;
+  background: blue;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   margin-top: 0;
   margin-bottom: 0;
+}
+
+@keyframes color_flash {
+  0% { color: red; }
+  20% { color: orange; }
+  40% { color: yellow;}
+  60% { color: green;}
+  80% { color: blue;}
+  100% { color: purple;}
 }
 
 div.title {
@@ -22,15 +35,40 @@ div.title {
   flex-grow: 1;
   font-family: cursive;
   font-size: 150%;
+  animation-name: color_flash;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(90deg); }
+  40% { transform: rotate(180deg); }
+  60% { transform: rotate(270deg); }
+  80% { transform: rotate(360deg); }
+  100% { transform: rotate(0deg); }
 }
 
 img.profile_picture {
   display: flex;
   justify-content: center;
-  border: 0.05em groove black;
+  border: 0.05em groove orange;
   max-height: 20em;
   margin-bottom: 1em;
+  animation-name: rotate;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
+
+@keyframes border_flash {
+  0% { border-style: dashed; }
+  20% { border-style: none; }
+  40% { border-style: dotted; }
+  60% { border-style: double; }
+  80% { border-style: ridge; }
+  100% { border-style: solid; }
+}
+
 
 nav {
   border-style: solid;
@@ -38,16 +76,16 @@ nav {
   border-top-width: 0em;
   border-right-width: 0em;
   border-left-width: 0em;
-  border-color: darkcyan;
+  border-color: orange;
 }
 nav ul {
   margin-top: 0;
   margin-bottom: 0;
   background: #FFFFFF;
-  background: -webkit-linear-gradient(0, grey, lightgrey);
-  background: -o-linear-gradient(0, grey, lightgrey);
-  background: -moz-linear-gradient(0, grey, lightgrey);
-  background: linear-gradient(0, grey, lightgrey);
+  background: -webkit-linear-gradient(0, orange, yellow);
+  background: -o-linear-gradient(0, orange, yellow);
+  background: -moz-linear-gradient(0, orange, yellow);
+  background: linear-gradient(0, orange, yellow);
 }
 nav ul li {
   display: inline;
@@ -60,9 +98,11 @@ nav ul li a {
   border-right-width: 0.1em;
   border-top-width: 0em;
   border-bottom-width: 0em;
-  border-style: solid;
   padding-left: 0.3em;
   padding-right: 0.3em;
+  animation-name: border_flash;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
 }
 
 div.container {
@@ -90,13 +130,13 @@ div.content {
 div.sidebar {
   margin-top: 1em;
   padding: 1em;
-  background: lightgrey;
+  background: yellow;
 }
 
 div.code_box {
   background: tan;
   border-style: solid;
-  border-color: crimson;
+  border-color: red;
   border-width: 0.05em;
 }
 
@@ -117,7 +157,7 @@ blockquote:after {
 /* end of code snippet */
 
 footer {
-  background: darkcyan;
+  background: blue;
   margin-top: 0;
   margin-bottom: 0;
 }
