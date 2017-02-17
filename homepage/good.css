@@ -57,12 +57,32 @@ nav ul li a {
   padding-right: 0.3em;
 }
 
-div.content {
+div.container {
   background: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
 }
 
-div.content h1 {
+div.container h1 {
   margin-top: 0;
   margin-bottom: 0;
 }
 
+div.content {
+  margin-right: 1em;
+}
+
+div.sidebar {
+  margin-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  background: lightgrey;
+}
+
+div.code_box {
+  background: tan;
+  border-style: solid;
+  border-color: crimson;
+  border-width: 0.05em;
+}
