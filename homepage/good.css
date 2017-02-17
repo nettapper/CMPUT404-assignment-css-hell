@@ -1,3 +1,68 @@
 body {
-  background-color: green;
+  background: dimgrey;
+  margin: 2em;
 }
+
+a {
+  color: grey;
+}
+
+div.mast {
+  background: darkcyan;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+div.title {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  font-family: cursive;
+  font-size: 150%;
+}
+
+img.profile_picture {
+  display: flex;
+  justify-content: center;
+  border: 0.05em groove black;
+  max-height: 20em;
+  margin-bottom: 1em;
+}
+
+nav ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  background: #FFFFFF;
+  background: -webkit-linear-gradient(0, grey, lightgrey);
+  background: -o-linear-gradient(0, grey, lightgrey);
+  background: -moz-linear-gradient(0, grey, lightgrey);
+  background: linear-gradient(0, grey, lightgrey);
+}
+nav ul li {
+  display: inline;
+}
+nav ul li a {
+  font-size: 200%;
+  color: black;
+  text-decoration: none;
+  border-left-width: 0.1em;
+  border-right-width: 0.1em;
+  border-top-width: 0em;
+  border-bottom-width: 0em;
+  border-style: solid;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+
+div.content {
+  background: white;
+}
+
+div.content h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+

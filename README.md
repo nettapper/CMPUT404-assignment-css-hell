@@ -45,3 +45,5 @@ Resources Used
 - [Pseudo Elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements), accessed Tue Feb 14, 2017
 - [Css Boarders](https://developer.mozilla.org/en-US/docs/Web/CSS/border), accessed Tue Feb 14, 2017
 - [Code Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code), accessed Tue Feb 16, 2017
+- [A guide to flex boxes](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), accessed Tue Feb 16, 2017
+- [CSS Centering Tricks](https://www.w3.org/Style/Examples/007/center.en.html), accessed Tue Feb 16, 2017
