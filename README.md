@@ -44,3 +44,4 @@ Resources Used
 - [Font Family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family), accessed Tue Feb 14, 2017
 - [Pseudo Elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements), accessed Tue Feb 14, 2017
 - [Css Boarders](https://developer.mozilla.org/en-US/docs/Web/CSS/border), accessed Tue Feb 14, 2017
+- [Code Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code), accessed Tue Feb 16, 2017
