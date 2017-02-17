@@ -100,8 +100,9 @@ nav ul li a {
   border-bottom-width: 0em;
   padding-left: 0.3em;
   padding-right: 0.3em;
+  border-style: dotted;
   animation-name: border_flash;
-  animation-duration: 0.5s;
+  animation-duration: 5s;
   animation-iteration-count: infinite;
 }
 
@@ -143,18 +144,6 @@ div.code_box {
 div#experience ul {
   list-style-type: none;
 }
-
-
-/* http://stackoverflow.com/questions/2741312/using-css-to-insert-text */
-/* Martin Hansen (http://stackoverflow.com/users/2071762/martin-hansen) */
-/* Taken on Feb 16, 2017 */
-blockquote:before {
-  content: "\"";
-}
-blockquote:after {
-  content: "\"";
-}
-/* end of code snippet */
 
 footer {
   background: blue;

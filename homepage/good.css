@@ -104,18 +104,6 @@ div#experience ul {
   list-style-type: none;
 }
 
-
-/* http://stackoverflow.com/questions/2741312/using-css-to-insert-text */
-/* Martin Hansen (http://stackoverflow.com/users/2071762/martin-hansen) */
-/* Taken on Feb 16, 2017 */
-blockquote:before {
-  content: "\"";
-}
-blockquote:after {
-  content: "\"";
-}
-/* end of code snippet */
-
 footer {
   background: darkcyan;
   margin-top: 0;

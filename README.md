@@ -15,14 +15,26 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 License/Copyright
 =================
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
+Textual content is copyright Abram Hindle and Conner Dunn (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Abram Hindle visibile in the text.
+repository and (C) 2013 Abram Hindle and Conner Dunn visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-gutenberg/5427602601_9ae9ecf492_z.jpg is licensed under [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/), taken by [Rebecca Siegal](https://www.flickr.com/photos/grongar/), this photograph has not been altered in any way
+Contributions from Martin Hansen (http://stackoverflow.com/users/2071762/martin-hansen) in `homepage/blockquote.css` is licensed under CC-BY-SA 3.0
 
+The photograph `gutenberg/5427602601_9ae9ecf492_z.jpg` is licensed under [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/), taken by [Rebecca Siegal](https://www.flickr.com/photos/grongar/), addionally this photograph has not been altered in any way.
+
+The files `good.css, good.html, ugly.css, ugly.html` under the `homepage` directory is licensed under the MIT License.
+
+The MIT License (MIT)
+Copyright 2017 Conner Dunn
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Project Gutenberg Files
 =======================
